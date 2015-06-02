@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "notification": {
+    "dataSource": "db",
+    "public": true
   }
 }
